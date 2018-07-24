@@ -1,2 +1,8 @@
 # YelpCamp
 YelpCamp site
+
+# Setup
+1. `npm install`
+
+# Run
+1. `npm start`
